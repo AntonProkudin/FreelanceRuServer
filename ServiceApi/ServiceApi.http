@@ -1,0 +1,6 @@
+@ServiceApi_HostAddress = http://localhost:5156
+
+GET {{ServiceApi_HostAddress}}/api/Users/UserInfo
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1laWQiOiIzIiwibmJmIjoxNzEzMDA2NjY3LCJleHAiOjE3NDQ1NDI2NjcsImlhdCI6MTcxMzAwNjY2NywiaXNzIjoiaHR0cDovL2NvZGluZ3NvbmF0YS5jb20iLCJhdWQiOiJodHRwOi8vY29kaW5nc29uYXRhLmNvbSJ9.HkiLjiFNvGTSehSGf6Ns9xoR-pbuxiqmSg8LgPCF7L0
+Accept: */*
+###
