@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="FullSignature">
+  <Class Name="ServiceApi.Models.Responses.User.SaveSkillResponse">
+    <Position X="17.5" Y="5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\User\SkillResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.User.GetSkillsResponse">
+    <Position X="20.25" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\User\SkillResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.User.DeleteSkillResponse">
+    <Position X="27.25" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\User\SkillResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.User.SkillResponse">
+    <Position X="49.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAEAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\User\SkillResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.User.SkillsResponse">
+    <Position X="81.25" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\User\SkillResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.User.UserInfoResponse">
+    <Position X="121.75" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAEAAACAAAAAAAAQAAAAAAAACAAAgAAAAAAAAAAg=</HashCode>
+      <FileName>Models\Responses\User\UserInfoResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.Help.SendImageResponse">
+    <Position X="52" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\Help\SendImageResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.News.GetNewsResponse">
+    <Position X="43" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\News\NewsResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.News.GetNewResponse">
+    <Position X="47.5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\News\NewsResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.News.NewsResponse">
+    <Position X="83.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAEAAAAAAAAAAAAACAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\News\NewsResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.Task.SaveCategoryResponse">
+    <Position X="22.75" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Models\Responses\Task\CategoryResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.Task.GetCategoriesResponse">
+    <Position X="29.5" Y="4" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\Task\CategoryResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.Task.DeleteCategoryResponse">
+    <Position X="34" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\Task\CategoryResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.Task.CategoryResponse">
+    <Position X="124" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\Task\CategoryResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.Task.SaveTaskResponse">
+    <Position X="38.5" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\Task\TaskResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.Task.GetTasksResponse">
+    <Position X="40.75" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Models\Responses\Task\TaskResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.Task.DeleteTaskResponse">
+    <Position X="45.25" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\Task\TaskResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.Task.TaskResponse">
+    <Position X="135.25" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAgAEAAAAAAAAgAAAACABAAAAAAAAAACAA=</HashCode>
+      <FileName>Models\Responses\Task\TaskResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.Authorization.LogoutResponse">
+    <Position X="26.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\Authorization\LogoutResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.Authorization.SignupResponse">
+    <Position X="25" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\Authorization\SignupResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.Authorization.TokenResponse">
+    <Position X="31.75" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\Authorization\TokenResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.Authorization.ValidateRefreshTokenResponse">
+    <Position X="36.25" Y="4" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\Authorization\ValidateRefreshTokenResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Responses.BaseResponse">
+    <Position X="31.75" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAggAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Responses\BaseResponse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Requests.Authorization.LoginRequest">
+    <Position X="108.25" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Requests\Authorization\LoginRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Requests.Authorization.RefreshTokenRequest">
+    <Position X="137.5" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Requests\Authorization\RefreshTokenRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Requests.Authorization.SignupRequest">
+    <Position X="126.25" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAACAAAAAAAAAAAAAAAAACAAACAAAAAAAAIAg=</HashCode>
+      <FileName>Models\Requests\Authorization\SignupRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Requests.Task.TaskRequest">
+    <Position X="128.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgAkAAAAAAAAAAAAACABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Requests\Task\TaskRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Requests.Task.CategoryRequest">
+    <Position X="110.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Requests\Task\TaskRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Requests.User.SkillRequest">
+    <Position X="139.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Requests\User\SkillRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Requests.User.SetUserAvatarRequest">
+    <Position X="112.75" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\Requests\User\SkillRequest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Category">
+    <Position X="103.75" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Models\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.ImgMetaData">
+    <Position X="85.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAFAgAAQAgAAAAAAAA=</HashCode>
+      <FileName>Models\ImgMetaData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.LastMessages">
+    <Position X="94.75" Y="1.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAgAAAAAAAAgAEAgAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\LastMessages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Message">
+    <Position X="130.75" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAASwAAAAAAAAAAAAAAAEAAAAAAAAAAAAQAACAAAAAA=</HashCode>
+      <FileName>Models\Message.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.UserRelation">
+    <Position X="142" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAIAAAAAAgAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Models\MessageRelation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.News">
+    <Position X="65.5" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAEAAAAAAAAAAAAACAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\News.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.RefreshToken">
+    <Position X="133" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAHAAABAAAAAAAAAAAAAAgAAAACAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\RefreshToken.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.Task">
+    <Position X="115" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAQAgAkAAAAAAAAgAAAACABAAAAAAAAAACAA=</HashCode>
+      <FileName>Models\Task.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.User">
+    <Position X="97" Y="1.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>MAACAEAAACIAAAAAAAAAAAAAAAACAAAiAAAIAAAAAAg=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.UserAvatar">
+    <Position X="117.25" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\UserAvatar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Models.UserSkill">
+    <Position X="67.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAAAAAEAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\UserSkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Services.SkillsService.SkillService" BaseTypeListCollapsed="true">
+    <Position X="70" Y="1.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAEAAQAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\SkillsService\SkillService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ServiceApi.Services.CategoryService.CategoryService" HideInheritanceLine="true" BaseTypeListCollapsed="true">
+    <Position X="129" Y="12" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAEAAAAAAAAAAQAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Services\CategoryService\CategoryService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ServiceApi.Services.HelpService.HelpService" BaseTypeListCollapsed="true">
+    <Position X="61" Y="1.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Services\HelpService\HelpService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ServiceApi.Services.TaskService.NewsService" BaseTypeListCollapsed="true">
+    <Position X="99.25" Y="1.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAEAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Services\NewsService\NewService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ServiceApi.Services.TaskService.TaskService" BaseTypeListCollapsed="true">
+    <Position X="54.25" Y="1.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAABAgBAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Services\TaskService\TaskService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ServiceApi.Services.TokenService.TokenService" BaseTypeListCollapsed="true">
+    <Position X="88" Y="1.75" Width="7" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAACAAIAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Services\TokenService\TokenService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ServiceApi.Services.UserService.UserService" BaseTypeListCollapsed="true">
+    <Position X="56.5" Y="1.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AxAQAAAAAAAQAAAAEEAACAAAIAAAABAAAAAQAAIAAAA=</HashCode>
+      <FileName>Services\UserService\UserService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ServiceApi.Services.MessageService.MessageService" BaseTypeListCollapsed="true">
+    <Position X="63.25" Y="1.75" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAQAAEAAAAACAAEAAAAEAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Services\MessageService\MessageService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="ServiceApi.Helpers.PasswordHelper">
+    <Position X="119.5" Y="1.75" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Helpers\PasswordHashHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Helpers.ServerInfo">
+    <Position X="72.25" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\ServerInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Helpers.TokenHelper">
+    <Position X="74.5" Y="1.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAEAABAAAAAAAAAAAAAAAAAAAAAIACAAAA=</HashCode>
+      <FileName>Helpers\TokenHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Helpers.Utilities">
+    <Position X="90.25" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\Utilities.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Extensions.AuthenticationExtension">
+    <Position X="76.75" Y="1.75" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Extensions\AuthenticationExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Extensions.ServicesExtension">
+    <Position X="92.5" Y="1.75" Width="5.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extensions\ServicesExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Extensions.SwaggerExtension">
+    <Position X="101.5" Y="1.75" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Extensions\SwaggerExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Database.EF.ApiDbContext">
+    <Position X="58.75" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Class Name="ServiceApi.Database.EF.ApiDbContext.ThisDbContext" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Database\EF\ApiDbContext.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database\EF\ApiDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Database.NativeQuery.BaseNativeSQL">
+    <Position X="10.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database\NativeQuery\BaseNativeSQL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Database.NativeQuery.CategoryNativeSql">
+    <Position X="1.75" Y="3.5" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Database\NativeQuery\CategoryNativeSql.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Database.NativeQuery.MessageNativeSQL">
+    <Position X="5.5" Y="3.5" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAQAAAAAAAgAAAAAAAAAgAQAAAAAAAAAAA=</HashCode>
+      <FileName>Database\NativeQuery\MessageNativeSQL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Database.NativeQuery.UserAvatarNativeSql">
+    <Position X="10.75" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Database\NativeQuery\UserAvatarNativeSql.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Database.NativeQuery.UserRelationNativeSQL">
+    <Position X="14" Y="3.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Database\NativeQuery\UserRelationNativeSQL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Controllers.Hubs.MessageHub" Collapsed="true">
+    <Position X="151.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAQAAAAAAAAABgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\Hubs\MessageHub.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Controllers.BaseApiController">
+    <Position X="5" Y="8.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\BaseApiController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Controllers.HelpController">
+    <Position X="0.5" Y="11.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\HelpController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Controllers.MessageController">
+    <Position X="2.75" Y="11.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAABAACAAAAAAAAAAAAAAgEBAAAAAAAA=</HashCode>
+      <FileName>Controllers\MessageController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Controllers.NewsController">
+    <Position X="5" Y="11.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\NewsController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Controllers.TasksController">
+    <Position X="7.25" Y="11.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAIAAAFAAAAAAAAACQEAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Controllers\TasksController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Controllers.UsersController">
+    <Position X="9.5" Y="11.25" Width="5.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAgBADAAAAgAAIACAEACAAAAAAQAAIAAIA=</HashCode>
+      <FileName>Controllers\UsersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Wrappers.HubWrapper">
+    <Position X="79" Y="1.75" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wrappers\HubWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Wrappers.ServiceWrapper">
+    <Position X="106" Y="1.75" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAQAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Wrappers\ServiceWrapper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ServiceApi.Handlers.AuthorizingHandler" Collapsed="true">
+    <Position X="149.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Handlers\AuthorizingHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.AspNetCore.Mvc.ControllerBase" Collapsed="true">
+    <Position X="5" Y="7.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="75.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Net.Http.DelegatingHandler" Collapsed="true">
+    <Position X="147" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Microsoft.AspNetCore.SignalR.Hub" Collapsed="true">
+    <Position X="155" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Interface Name="ServiceApi.Services.SkillsService.ISkillService">
+    <Position X="154.5" Y="10.25" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAQAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\SkillsService\ISkillService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ServiceApi.Services.CategoryService.ICategoryService">
+    <Position X="129" Y="10.25" Width="4.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAAAAAAAAAAAAAAQAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Services\CategoryService\ICategoryService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ServiceApi.Services.HelpService.IHelpService">
+    <Position X="125" Y="10.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Services\HelpService\IHelpService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ServiceApi.Services.TaskService.INewsService">
+    <Position X="146" Y="10.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Services\NewsService\INewsService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ServiceApi.Services.TaskService.ITaskService">
+    <Position X="150" Y="10.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAgBAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Services\TaskService\ITaskService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ServiceApi.Services.TokenService.ITokenService">
+    <Position X="138.75" Y="10.25" Width="7" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAIAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Services\TokenService\ITokenService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ServiceApi.Services.UserService.IUserService">
+    <Position X="133.75" Y="10.25" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AxAQAAAAAAAAAAAAEAAAAAAAIAAAABAAAAAQAAAAAAA=</HashCode>
+      <FileName>Services\UserService\IUserService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="ServiceApi.Services.MessageService.IMessageService">
+    <Position X="154.75" Y="2" Width="5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAEAAAAAAAAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\MessageService\IMessageService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
