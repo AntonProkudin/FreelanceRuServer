@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ServiceClient.Views.Pages.LoginPage"
+             xmlns:local="clr-namespace:ServiceClient.Views.Pages"
+             BackgroundColor="{StaticResource White}"
+             Shell.TabBarIsVisible="False">
+    <Grid VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
+        <!-- Imagen de fondo -->
+        <Image Source="fondo1.jpeg" Aspect="AspectFill" VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" />
+
+
+
+        <Frame Grid.Row="0" BackgroundColor="#902F5D9B" CornerRadius="10" Padding="20" VerticalOptions="Center" HorizontalOptions="Center" Margin="20" HeightRequest="300" >
+
+            <StackLayout >
+
+
+                <Label Text="Login" FontSize="Large" HorizontalOptions="Center"  TextColor="White"/>
+
+                <!-- Elementos de entrada -->
+                <Label x:Name="lblUsername" Text="Nombre de usuario" TextColor="White" />
+                <Entry Placeholder="Nombre de usuario" x:Name="txtUsername" TextColor="White" WidthRequest="200"/>
+                <Label x:Name="lblContraseña" Text="Contraseña" TextColor="White"/>
+                <Entry Placeholder="Contraseña" x:Name="txtContraseña" IsPassword="True" TextColor="White" VerticalOptions="StartAndExpand" WidthRequest="200"/>
+                <Button Text="Entrar" x:Name="btnEntrar" CornerRadius="10" TextColor="Blue" FontAttributes="Bold" BackgroundColor="White" HorizontalOptions="Fill" Clicked="OnLoginButtonClicked" Margin="0,10,0,0"/>
+            </StackLayout>
+        </Frame>
+    </Grid>
+</ContentPage>
